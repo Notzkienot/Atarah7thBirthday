@@ -66,7 +66,7 @@
 
   <!-- Music -->
   <audio autoplay loop>
-    <source src="https://raw.githubusercontent.com/Notzkienot/atarah-7thbirthday-invite/blob/main/AtarahTheme.mp3?raw=true" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/Notzkienot/Atarah7thBirthday/blob/main/AtarahTheme?raw=true" type="audio/mpeg">
   </audio>
 
   <!-- Sections -->
